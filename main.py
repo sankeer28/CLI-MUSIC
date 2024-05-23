@@ -104,7 +104,7 @@ def main():
     while True:
         github_link = URL.from_text("GitHub")
         github_link = f"\x1b]8;;{github_link}https://github.com/sankeer28/CLI-MUSIC\x1b\\{github_link}\x1b]8;;\x1b\\"
-        print(f'{Fore.GREEN}{github_link}{Style.RESET_ALL}')
+        print(f'\n{Fore.GREEN}{github_link}{Style.RESET_ALL}')
         print(f'{Fore.YELLOW}Menu:{Style.RESET_ALL}')
         print(f'{Fore.YELLOW}1. Search for a Song{Style.RESET_ALL}')
         print(f'{Fore.YELLOW}2. View Playlist{Style.RESET_ALL}')
