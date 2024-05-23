@@ -8,6 +8,10 @@ Search, Download, Play songs in your Terminal
   \/_____/   \/_____/   \/_/      \/_/  \/_/   \/_____/   \/_____/   \/_/   \/_____/
 ```
 
+
+https://github.com/sankeer28/CLI-MUSIC/assets/112449287/d86c1d7c-0d72-4bd1-ad10-3bf753601d57
+
+
 ## Features
 - Search for songs on YouTube
 - Download songs as MP3 files
