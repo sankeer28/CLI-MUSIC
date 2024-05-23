@@ -26,7 +26,7 @@ https://github.com/sankeer28/CLI-MUSIC/assets/112449287/d86c1d7c-0d72-4bd1-ad10-
 
 ```bash
 git clone https://github.com/sankeer28/CLI-MUSIC.git
-cd cli-music
+cd CLI-MUSIC
 ```
 
 2. Install the required libraries using pip:
